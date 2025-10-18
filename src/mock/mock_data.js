@@ -44,53 +44,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
-      "order": 1,
-      "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
-        }
-      ]
-    },
-    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "cloudflare",
@@ -145,9 +102,9 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "程序员",
       "icon": "🛠️",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "github",
@@ -194,10 +151,53 @@ export const mockData = {
       ]
     },
     {
+      "id": "ai-tools",
+      "name": "AI智能",
+      "icon": "🤖",
+      "order": 3,
+      "sites": [
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "OpenAI对话AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "claude",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic AI助手",
+          "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "copilot",
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI代码助手",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "url": "https://cursor.sh",
+          "description": "AI代码编辑器",
+          "icon": "/sitelogo/cursor.sh.ico"
+        }
+      ]
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "stackoverflow",
@@ -240,7 +240,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "figma",
@@ -276,7 +276,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "binance",
@@ -340,7 +340,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "mdn",
@@ -376,7 +376,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "json-formatter",
@@ -412,7 +412,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "bilibili",
@@ -448,7 +448,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "notion",
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "W导航",
-  "_fileSha": "4a9858351a1fc1d1d248922d44b03dfab4b64de6",
-  "search": "google"
+  "title": "W导航"
 }
