@@ -53,20 +53,22 @@ export const mockData = {
           "id": "site-1760785293754",
           "name": "expressjs",
           "url": "https://expressjs.com",
-          "description": "构建服务器接口"
+          "description": "构建服务器接口",
+          "icon": "/favicon.ico"
         },
         {
           "id": "site-1760785424301",
           "name": "Koa",
           "url": "https://koa.bootcss.com/",
-          "description": "构建服务器接口"
+          "description": "构建服务器接口",
+          "icon": "/favicon.ico"
         },
         {
           "id": "site-1760972434282",
           "name": "Vue",
           "url": "https://cn.vuejs.org",
           "description": "Vue前端框架",
-          "icon": "/sitelogo/www.vuejs.org.ico"
+          "icon": "/favicon.ico"
         },
         {
           "id": "site-1760972655658",
@@ -79,20 +81,21 @@ export const mockData = {
           "name": "swiperjs",
           "url": "https://swiperjs.com/",
           "description": "轮播组件库",
-          "icon": ""
+          "icon": "/favicon.ico"
         },
         {
           "id": "site-1760972946759",
           "name": "bootcdn",
           "url": "https://www.bootcdn.cn/",
-          "description": "稳定、快速、免费的前端开源项目 CDN 加速服务"
+          "description": "稳定、快速、免费的前端开源项目 CDN 加速服务",
+          "icon": "/favicon.ico"
         },
         {
           "id": "site-1760972971094",
           "name": "jquery手册",
           "url": "https://www.jq22.com/chm/jquery/index.html",
           "description": "jquery手册",
-          "icon": ""
+          "icon": "/favicon.ico"
         }
       ]
     },
