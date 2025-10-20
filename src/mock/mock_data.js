@@ -431,14 +431,15 @@ export const mockData = {
           "id": "site-1760973053195",
           "name": "Shopify图片在线压缩",
           "url": "https://img.shopify.now/",
-          "description": "Shopify 网站图片在线压缩"
+          "description": "Shopify 网站图片在线压缩",
+          "icon": "https://img.shopify.now/shopify2006.ico"
         },
         {
           "id": "site-1760973309274",
           "name": "域名检查",
           "url": "https://www.boce.com/",
           "description": "域名检查工具",
-          "icon": ""
+          "icon": "https://www.boce.com/statics/web_v5/images/logo01.png"
         },
         {
           "id": "site-1760976024727",
@@ -565,7 +566,7 @@ export const mockData = {
           "id": "site-1760975522545",
           "name": "kookeey",
           "url": "https://www.kookeey.com/",
-          "description": "kookeey-海外代理IP_静态住宅IP代理_动态住宅IP代理_Socks5代理",
+          "description": "kookeey-海外代理IP",
           "icon": "https://cdn.kookeey.com/kookeeycomosite-dist/public/_nuxt/logo.bff85e9c.svg"
         }
       ]
