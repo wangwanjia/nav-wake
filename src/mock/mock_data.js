@@ -148,6 +148,13 @@ export const mockData = {
           "url": "https://www.humkt.com/",
           "description": "提供账号购买与批发- instagram(新,老)账号购买,facebook新,老账号购买,telegram账号购买,twitter账号购买,gmail谷歌邮箱购买,discord账号批发",
           "icon": "https://www.humkt.com/assets/images/logo_icon/favicon.png"
+        },
+        {
+          "id": "site-1760974575852",
+          "name": "薪泰科技ID商店",
+          "url": "https://www.xintaifree.com/",
+          "description": "专业销售美国苹果ID礼品卡/软件/Google voice/telegram/美国shadowrocket等软件",
+          "icon": "https://www.xintaifree.com/favicon.ico"
         }
       ]
     },
@@ -448,6 +455,13 @@ export const mockData = {
           "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1760974682312",
+      "icon": "🛜",
+      "name": "科学上网",
+      "order": 5,
+      "sites": []
     }
   ],
   "title": "W导航"
