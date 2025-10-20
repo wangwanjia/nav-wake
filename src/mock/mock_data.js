@@ -139,28 +139,28 @@ export const mockData = {
           "id": "site-1760974368299",
           "name": "银河录像局",
           "url": "https://nf.video/",
-          "description": "银河录像局,奈飞合租,账号合租,奈飞账号合租,奈飞合租平台,Netflix合租群",
+          "description": "银河录像局,奈飞合租,",
           "icon": "https://cdn2.yicanggongyi.com/yinhe/icon/pc/nav/pc_logo_b.png"
         },
         {
           "id": "site-1760974442833",
           "name": "小咔子",
           "url": "https://www.humkt.com/",
-          "description": "提供账号购买与批发- instagram(新,老)账号购买,facebook新,老账号购买,telegram账号购买,twitter账号购买,gmail谷歌邮箱购买,discord账号批发",
+          "description": "提供账号购买与批发- ",
           "icon": "https://www.humkt.com/assets/images/logo_icon/favicon.png"
         },
         {
           "id": "site-1760974575852",
           "name": "薪泰科技ID商店",
           "url": "https://www.xintaifree.com/",
-          "description": "专业销售美国苹果ID礼品卡/软件/Google voice/telegram/美国shadowrocket等软件",
+          "description": "专业销售美国苹果ID",
           "icon": "https://www.xintaifree.com/favicon.ico"
         },
         {
           "id": "site-1760975459283",
           "name": "苹果ID商店",
           "url": "https://sudukj.eu.org/",
-          "description": "专业销售美国苹果ID礼品卡/软件/Google voice/telegram/美国shadowrocket等软件",
+          "description": "专业销售美国苹果ID礼品卡",
           "icon": "https://sudukj.eu.org/assets/cache/user/1007/images/202406161123586777564.jpg"
         },
         {
