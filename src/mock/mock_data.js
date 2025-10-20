@@ -110,7 +110,8 @@ export const mockData = {
           "id": "site-1760973455364",
           "name": "爱一帆",
           "url": "https://www.yfsp.tv/",
-          "description": "影视资源在线看"
+          "description": "影视资源在线看",
+          "icon": "https://static.yfsp.tv/images/yfsp.tvgl.png?v=8"
         },
         {
           "id": "site-1760973499539",
@@ -126,7 +127,29 @@ export const mockData = {
       "name": "电商资源",
       "icon": "🎮",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760974258375",
+          "name": "sms",
+          "url": "https://sms-activate.io/",
+          "description": "用于接收短信的虚拟号码",
+          "icon": "https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/icons/logo/logo.svg"
+        },
+        {
+          "id": "site-1760974368299",
+          "name": "银河录像局",
+          "url": "https://nf.video/",
+          "description": "银河录像局,奈飞合租,账号合租,奈飞账号合租,奈飞合租平台,Netflix合租群",
+          "icon": "https://cdn2.yicanggongyi.com/yinhe/icon/pc/nav/pc_logo_b.png"
+        },
+        {
+          "id": "site-1760974442833",
+          "name": "小咔子",
+          "url": "https://www.humkt.com/",
+          "description": "提供账号购买与批发- instagram(新,老)账号购买,facebook新,老账号购买,telegram账号购买,twitter账号购买,gmail谷歌邮箱购买,discord账号批发",
+          "icon": "https://www.humkt.com/assets/images/logo_icon/favicon.png"
+        }
+      ]
     },
     {
       "id": "cloud",
