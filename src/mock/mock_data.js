@@ -7,18 +7,18 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
           "description": "工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
         },
         {
           "id": "site-1752857783656",
@@ -28,18 +28,11 @@ export const mockData = {
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "id": "site-1779608203410",
+          "name": "爱壹帆",
+          "url": "https://www.yfsp.tv",
+          "description": "在线免费看视频资源网站",
+          "icon": "https://www.yfsp.tv/android-icon-192x192.png"
         }
       ]
     },
@@ -572,7 +565,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "W导航",
-  "_fileSha": "d186f80a06ea2800ccf86ce61052bd8086bf2afa",
-  "search": "google"
+  "title": "W导航"
 }
