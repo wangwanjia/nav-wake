@@ -273,60 +273,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 6,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        },
-        {
-          "id": "site-1760972900417",
-          "name": "iconfont",
-          "url": "https://www.iconfont.cn/",
-          "description": "图标库",
-          "icon": ""
-        },
-        {
-          "id": "site-1760976207032",
-          "name": "软仓",
-          "url": "https://www.ruancang.net/",
-          "description": "设计开发工具下载网站",
-          "icon": "/favicon.ico"
-        }
-      ]
-    },
-    {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 6,
       "sites": [
         {
           "id": "mdn",
@@ -373,10 +323,67 @@ export const mockData = {
       ]
     },
     {
+      "id": "design",
+      "name": "设计工具",
+      "icon": "🎨",
+      "order": 7,
+      "sites": [
+        {
+          "id": "figma",
+          "name": "Figma",
+          "url": "https://figma.com",
+          "description": "UI设计工具",
+          "icon": "/sitelogo/figma.com.ico"
+        },
+        {
+          "id": "sketch",
+          "name": "Sketch",
+          "url": "https://www.sketch.com",
+          "description": "界面设计工具",
+          "icon": "/sitelogo/www.sketch.com.ico"
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "url": "https://www.canva.com",
+          "description": "在线设计平台",
+          "icon": "/sitelogo/www.canva.com.ico"
+        },
+        {
+          "id": "adobe-xd",
+          "name": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "description": "用户体验设计工具",
+          "icon": "/sitelogo/www.adobe.com.ico"
+        },
+        {
+          "id": "site-1760972900417",
+          "name": "iconfont",
+          "url": "https://www.iconfont.cn/",
+          "description": "图标库",
+          "icon": ""
+        },
+        {
+          "id": "site-1760976207032",
+          "name": "软仓",
+          "url": "https://www.ruancang.net/",
+          "description": "设计开发工具下载网站",
+          "icon": "/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1779608670650",
+      "icon": "🔧",
+      "name": "图片处理",
+      "order": 8,
+      "sites": []
+    },
+    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -433,7 +440,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "binance",
@@ -504,7 +511,7 @@ export const mockData = {
       "id": "category-1760974682312",
       "icon": "🛜",
       "name": "科学上网",
-      "order": 5,
+      "order": 11,
       "sites": [
         {
           "id": "site-1760974779588",
@@ -549,13 +556,6 @@ export const mockData = {
           "icon": "https://cdn.kookeey.com/kookeeycomosite-dist/public/_nuxt/logo.bff85e9c.svg"
         }
       ]
-    },
-    {
-      "id": "category-1779608670650",
-      "icon": "🔧",
-      "name": "图片处理",
-      "order": 0,
-      "sites": []
     }
   ],
   "title": "W导航"
