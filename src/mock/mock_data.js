@@ -43,20 +43,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1760785424301",
-          "name": "Koa",
-          "url": "https://koa.bootcss.com/",
-          "description": "构建服务器接口",
-          "icon": "https://koa.bootcss.com/public/images/koa-logo.png"
-        },
-        {
-          "id": "site-1760972434282",
-          "name": "Vue",
-          "url": "https://cn.vuejs.org",
-          "description": "Vue前端框架",
-          "icon": "https://vuejs.org/images/logo.png"
-        },
-        {
           "id": "site-1760972655658",
           "name": "animate",
           "url": "https://animate.style",
