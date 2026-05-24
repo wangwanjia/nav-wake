@@ -233,6 +233,13 @@ export const mockData = {
           "url": "https://www.hostinger.com/",
           "description": "服务器，网站部署等",
           "icon": "https://www.hostinger.com/favicon.ico"
+        },
+        {
+          "id": "site-1779608439170",
+          "name": "零途云",
+          "url": "https://www.lingtuyun.com/",
+          "description": "服务器出售",
+          "icon": ""
         }
       ]
     },
