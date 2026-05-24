@@ -377,7 +377,15 @@ export const mockData = {
       "icon": "🔧",
       "name": "图片处理",
       "order": 8,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1779608732658",
+          "name": "anywebp",
+          "url": "https://anywebp.com/",
+          "description": "图片压缩",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "tools",
