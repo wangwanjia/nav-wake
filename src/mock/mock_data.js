@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://chatgpt.com",
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1779608350258",
+          "name": "爱壹帆",
+          "url": "https://www.yfsp.tv/",
+          "description": "在线免费看视频",
+          "icon": "https://www.yfsp.tv/android-icon-192x192.png"
         }
       ]
     },
