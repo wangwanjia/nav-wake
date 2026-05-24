@@ -384,6 +384,34 @@ export const mockData = {
           "url": "https://anywebp.com/",
           "description": "图片压缩",
           "icon": ""
+        },
+        {
+          "id": "site-1779608774938",
+          "name": "下载狗",
+          "url": "https://www.xiazaitool.com/",
+          "description": "多平台资源下载",
+          "icon": ""
+        },
+        {
+          "id": "site-1779608818946",
+          "name": "油管下载",
+          "url": "https://ytshorts.savetube.me/",
+          "description": "youtube视频下载工具",
+          "icon": ""
+        },
+        {
+          "id": "site-1779608859978",
+          "name": "ins下载",
+          "url": "https://indown.io/",
+          "description": "instagrame下载工具",
+          "icon": ""
+        },
+        {
+          "id": "site-1779608878650",
+          "name": "TK下载",
+          "url": "https://tiksave.io/en",
+          "description": "TK下载工具",
+          "icon": ""
         }
       ]
     },
