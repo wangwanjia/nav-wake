@@ -43,13 +43,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1760785293754",
-          "name": "expressjs",
-          "url": "https://expressjs.com",
-          "description": "构建服务器接口",
-          "icon": "https://expressjs.com/images/favicon.png"
-        },
-        {
           "id": "site-1760785424301",
           "name": "Koa",
           "url": "https://koa.bootcss.com/",
